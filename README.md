@@ -1,1 +1,1 @@
-# bakare-gads-2020-project
+# bakare-gads-project-submissions
